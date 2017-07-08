@@ -8,11 +8,11 @@ These are resources that can help or are related to the goals we're working towa
 - [HyBox Original Modeling Work](https://github.com/hybox/models/)
 - [PCDM Community MAP & Data Models Work](https://github.com/duraspace/pcdm/wiki/Examples-&-Profiles)
 
-## Samvera Metadata Work
+## Related Samvera Metadata Work
 
 
 
-## Samvera Migration Work
+## Related Samvera Migration Work
 
 
 

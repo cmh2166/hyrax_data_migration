@@ -42,9 +42,11 @@ Include a diagram of the Model if appropriate or available.
 
 ## Metadata Application Profile
 
-### `class name & hierarchy if appropriate` (e.g. `hydraworks:Work < pcdm:Object` or `pcdm:Collection`)
+### `class name & hierarchy`
+(e.g. `hydraworks:Work < pcdm:Object` or `pcdm:Collection`)
 
-#### `Metadata Profile` (e.g. you can separate out `Descriptive`, `Administrative`, etc. if that makes sense, or just include a general profile)
+#### `Metadata Profile`
+(e.g. you can separate out `Descriptive`, `Administrative`, etc. if that makes sense, or just include a general profile)
 
 Fill out the following for fields that are asserted on instances of the given class. This should be all possible fields, not just required fields, following the expectations and scope of the given system this MAP applies to. Choose either the Basic Profile or the Extended profile based on your needs and abilities.
 

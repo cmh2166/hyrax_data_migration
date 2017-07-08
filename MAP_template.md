@@ -50,7 +50,7 @@ Include a diagram of the Model if appropriate or available.
 
 Fill out the following for fields that are asserted on instances of the given class. This should be all possible fields, not just required fields, following the expectations and scope of the given system this MAP applies to. Choose either the Basic Profile or the Extended profile based on your needs and abilities.
 
-Basic profile:
+**Basic profile:**
 
 | Field              | Predicate                   | Recommendation | Expected Value                        | Obligation |
 | ------------------ | --------------------------- | -------------- | ------------------------------------- | ---------- |
@@ -59,7 +59,7 @@ Basic profile:
 
 ... (etc.)
 
-Extended profile:
+**Extended profile (table scrolls left-right):**
 
 | Field | Predicate | Recommendation | Expected Value (Data Type) | Expected Value (Source) | Obligation | ActiveFedora Model | Solr Mapping(s) | Related Docs |
 | ----- | --------- | -------------- | -------------------------- | ----------------------- | ---------- | ------------------ | --------------- | -------------|

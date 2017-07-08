@@ -1,3 +1,6 @@
 [submodule "sufia-profile"]
 	path = sufia-profile
 	url = https://github.com/no-reply/sufia-profile.git
+[submodule "hyrax-profile"]
+	path = hyrax-profile
+	url = https://gist.github.com/cmh2166/723bebaee52d9ba4eb68eebc9044843b

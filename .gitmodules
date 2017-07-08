@@ -1,0 +1,3 @@
+[submodule "sufia-profile"]
+	path = sufia-profile
+	url = https://github.com/no-reply/sufia-profile.git
